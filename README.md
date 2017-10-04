@@ -70,7 +70,7 @@ python mi-community-bot.py
 ```
 
 ### Password Strength Checker
-This code checks for your password strength. For the right password, password must contain mixture of an upper case letters, an digit (including 0-9), and a special characters with lower case letters.
+This code checks whether the mail is valid or not and your password strength. For the right password, password must contain mixture of an upper case letters, an digit (including 0-9), and a special characters with lower case letters.If the password is not strong enough or email is not valid it will ask for valid input
 
 
 ```bash
